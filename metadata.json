@@ -1,0 +1,52 @@
+{
+  "name": "Rakkudo #6355",
+  "symbol": "RAKKUDOS",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeihuszwdjnfblrm6gd4p5xrrvmznagzpaxsub2n3qgwu6fxg7cy7vy.ipfs.dweb.link/6354.png?ext=png",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Robin Egg Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Blue Mountains"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "White Glow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Black Beanie"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Purple Vipers"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Orange Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
